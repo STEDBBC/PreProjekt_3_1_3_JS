@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Task_3_1_1_spring_boot_mvc-master" />
+        <module name="CRUD_spring_boot" />
+        <module name="PreProjekt_3_1_3_JS" />
+        <module name="Kata_3_1_3-master" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

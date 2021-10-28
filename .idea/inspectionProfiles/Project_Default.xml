@@ -1,0 +1,72 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myCustomPropertiesEnabled" value="true" />
+      <option name="myIgnoreVendorSpecificProperties" value="false" />
+      <option name="myCustomPropertiesList">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="front-familly" />
+            <item index="1" class="java.lang.String" itemvalue="front-size" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="FieldCanBeLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="EXCLUDE_ANNOS">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="javax.persistence.Column" />
+          </list>
+        </value>
+      </option>
+      <option name="IGNORE_FIELDS_USED_IN_MULTIPLE_METHODS" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="12">
+            <item index="0" class="java.lang.String" itemvalue="th:text" />
+            <item index="1" class="java.lang.String" itemvalue="user" />
+            <item index="2" class="java.lang.String" itemvalue="edit" />
+            <item index="3" class="java.lang.String" itemvalue="add" />
+            <item index="4" class="java.lang.String" itemvalue="value" />
+            <item index="5" class="java.lang.String" itemvalue="field" />
+            <item index="6" class="java.lang.String" itemvalue="var" />
+            <item index="7" class="java.lang.String" itemvalue="th:field" />
+            <item index="8" class="java.lang.String" itemvalue="th:object" />
+            <item index="9" class="java.lang.String" itemvalue="th:action" />
+            <item index="10" class="java.lang.String" itemvalue="path" />
+            <item index="11" class="java.lang.String" itemvalue="object" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="table" />
+            <item index="7" class="java.lang.String" itemvalue="form:from" />
+            <item index="8" class="java.lang.String" itemvalue="th:if" />
+            <item index="9" class="java.lang.String" itemvalue="th:foreach" />
+            <item index="10" class="java.lang.String" itemvalue="tr" />
+            <item index="11" class="java.lang.String" itemvalue="form:form" />
+            <item index="12" class="java.lang.String" itemvalue="from" />
+            <item index="13" class="java.lang.String" itemvalue="th:input" />
+            <item index="14" class="java.lang.String" itemvalue="th:form" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
